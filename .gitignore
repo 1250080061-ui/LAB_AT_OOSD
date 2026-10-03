@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/LAB4/EShoppingLab4/.vs
+/LAB4/EShoppingLab4/bin/Debug
+/LAB4/EShoppingLab4/obj
