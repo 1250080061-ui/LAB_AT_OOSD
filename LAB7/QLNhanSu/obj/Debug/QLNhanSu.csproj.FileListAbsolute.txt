@@ -1,0 +1,10 @@
+C:\Users\LOQ\source\repos\QLNhanSu\bin\Debug\QLNhanSu.exe.config
+C:\Users\LOQ\source\repos\QLNhanSu\bin\Debug\QLNhanSu.exe
+C:\Users\LOQ\source\repos\QLNhanSu\bin\Debug\QLNhanSu.pdb
+C:\Users\LOQ\source\repos\QLNhanSu\obj\Debug\QLNhanSu.csproj.AssemblyReference.cache
+C:\Users\LOQ\source\repos\QLNhanSu\obj\Debug\QLNhanSu.Properties.Resources.resources
+C:\Users\LOQ\source\repos\QLNhanSu\obj\Debug\QLNhanSu.csproj.GenerateResource.cache
+C:\Users\LOQ\source\repos\QLNhanSu\obj\Debug\QLNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\source\repos\QLNhanSu\obj\Debug\QLNhanSu.exe
+C:\Users\LOQ\source\repos\QLNhanSu\obj\Debug\QLNhanSu.pdb
+C:\Users\LOQ\source\repos\QLNhanSu\obj\Debug\QLNhanSu.exe.config
